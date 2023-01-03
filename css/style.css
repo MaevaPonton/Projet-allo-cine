@@ -1,0 +1,64 @@
+#body
+{
+    background-image: url(https://st2.depositphotos.com/2799173/7293/i/600/depositphotos_72932403-stock-photo-deep-outer-space-background.jpg);
+    
+}
+
+.navbar
+{
+    background-color:#222222; ;
+}
+
+.navbar-text
+{
+    color: white;
+    font-size: 50px;
+    font-family: arial,sans-serif;
+    text-transform: uppercase;
+    font-weight: bold;
+
+    
+}
+
+
+
+.h1 , h1
+{
+    text-align: center;
+    font-weight: bold;
+    text-decoration: underline;
+    text-transform: uppercase;
+
+}
+
+.resume , p
+{
+    text-align: justify;
+    font-size: 18px;
+ 
+}
+
+.notation
+{
+    font-size: 20px;
+    font-weight: bold;
+    color: rgb(0, 81, 255);
+}
+
+
+.card-img-content img
+{
+    width: 30%;
+    object-fit: cover;
+    
+}
+
+
+.card:hover
+{
+    background-color: black;
+    color: white;
+    
+}
+
+
